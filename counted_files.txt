@@ -1,2 +1,0 @@
-dmg-test.docx (590): 590
-dm-excel.xlsx (622): 622
